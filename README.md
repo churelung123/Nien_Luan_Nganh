@@ -18,3 +18,14 @@
 
 - Package: (...đang cập nhật...)
   
+## 📖 Hướng dẫn git.
+Tại folder đã clone code: nhấp chuột phải -> chọn Git Bash Here
+
+
+![image](https://github.com/PPThinh/Nien_Luan_Nganh/assets/138053505/46259d8e-0666-49df-be94-a7db170f5370)
+- Các lệnh thường dùng:
+  + **git branch**: dùng để xem các branch hiện có.
+  + **git switch NameBranch**: dùng để thay đổi giữa 2 branch với nhau.
+  + **git add FileName**: dùng để thêm file. VD: **git add Animation Scripts** để thêm folder Animation và Scripts hoặc **git add .** để thêm toàn bộ các thay đổi.
+  + **git commit -m "Description Here"**: dùng để ghi chú hay chỉ ra những thay đổi so với bản trước.
+  + **git push -f origin NameBranch**: dùng để đẩy dữ liệu từ máy lên git.
