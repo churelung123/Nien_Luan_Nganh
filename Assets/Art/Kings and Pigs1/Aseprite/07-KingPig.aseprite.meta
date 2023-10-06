@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 4605ee334276ccb4a978a6cf419824c8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 07-KingPig_Frame_0
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 199
+      width: 18
+      height: 20
+    spriteID: 37be176b70292a644b0848c6cf6e6dc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 199}
+  - name: 07-KingPig_Frame_1
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.5238096}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 85
+      width: 18
+      height: 21
+    spriteID: 453a28575a64d0048af3875a38c860fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 85}
+  - name: 07-KingPig_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 184
+      width: 18
+      height: 22
+    spriteID: 3f53003a1a57ddf4abd9373c14d7e504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 184}
+  - name: 07-KingPig_Frame_3
+    originalName: 
+    pivot: {x: 0.5263158, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 19
+      height: 22
+    spriteID: 2db1188d032162d459b81df1b27edb66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: 07-KingPig_Frame_4
+    originalName: 
+    pivot: {x: 0.5263158, y: -1.5238096}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 126
+      width: 19
+      height: 21
+    spriteID: ebe7e2d4645b5e04b8e696f9fe5be65f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 126}
+  - name: 07-KingPig_Frame_5
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6842107}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 105
+      width: 18
+      height: 19
+    spriteID: be52a1a0cf0a3c649894d00a129c9309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 105}
+  - name: 07-KingPig_Frame_6
+    originalName: 
+    pivot: {x: 0.5263158, y: -1.8421054}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 172
+      width: 19
+      height: 19
+    spriteID: 810035607b0a8f54689733a5704acb4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 172}
+  - name: 07-KingPig_Frame_7
+    originalName: 
+    pivot: {x: 0.5263158, y: -1.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 4
+      width: 19
+      height: 20
+    spriteID: dfe0a5f43761ddc418dd6654723d8cd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 4}
+  - name: 07-KingPig_Frame_8
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 227
+      width: 18
+      height: 20
+    spriteID: 699c6272859e9ac4382764845088c421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 227}
+  - name: 07-KingPig_Frame_9
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.7}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 32
+      width: 18
+      height: 20
+    spriteID: 37c5205557f6c7a4b9ba6cd30b8f7735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 32}
+  - name: 07-KingPig_Frame_10
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 60
+      width: 18
+      height: 20
+    spriteID: cfa523a4bdbd3b74991cec16df9038f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 60}
+  - name: 07-KingPig_Frame_11
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 88
+      width: 18
+      height: 20
+    spriteID: 56c4b83cb0910b44c976540040a5c66d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 88}
+  - name: 07-KingPig_Frame_12
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 214
+      width: 18
+      height: 22
+    spriteID: 59bd8dd8ebcadd7479d60563f9190eb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 214}
+  - name: 07-KingPig_Frame_13
+    originalName: 
+    pivot: {x: 0.5263158, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 96
+      width: 19
+      height: 22
+    spriteID: 6859fd45683d23549932ac73e3cab2e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 96}
+  - name: 07-KingPig_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -1.6842107}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 20
+      height: 19
+    spriteID: 1446131e58b4e014697434e998d5369b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: 07-KingPig_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -1.6842107}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 31
+      width: 20
+      height: 19
+    spriteID: a8c4347af1d71b641b759e1b4c57b12e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 31}
+  - name: 07-KingPig_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -1.7777779}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 20
+      height: 18
+    spriteID: 7525797e57b754448b78c967d2463278
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: 07-KingPig_Frame_17
+    originalName: 
+    pivot: {x: 0.67857146, y: -1.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 28
+      height: 23
+    spriteID: 4b5f9f11b1918c049b0ff15480c85c3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 07-KingPig_Frame_18
+    originalName: 
+    pivot: {x: 0.64, y: -1.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 35
+      width: 25
+      height: 23
+    spriteID: 4062a4d44d623b149900b715ec4176ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 35}
+  - name: 07-KingPig_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -1.6842107}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 58
+      width: 20
+      height: 19
+    spriteID: f7e471f457d10574ebde91abb166cedd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 58}
+  - name: 07-KingPig_Frame_20
+    originalName: 
+    pivot: {x: 0.44444445, y: -1.7142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 114
+      width: 18
+      height: 21
+    spriteID: 9e591f9c6f7e10a48aa3a201e975e304
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 114}
+  - name: 07-KingPig_Frame_21
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6190476}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 143
+      width: 18
+      height: 21
+    spriteID: 07de9197fca62b24e96efe47b2b9f7df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 143}
+  - name: 07-KingPig_Frame_22
+    originalName: 
+    pivot: {x: 0.47368428, y: -1.5238096}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 19
+      height: 21
+    spriteID: c383af17da8dada45b1180ad89aa2c09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 155}
+  - name: 07-KingPig_Frame_23
+    originalName: 
+    pivot: {x: 0.27272725, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 58
+      width: 22
+      height: 16
+    spriteID: ba1a24a0f2aa3544d8caafa1b0e8a395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 58}
+  - name: 07-KingPig_Frame_24
+    originalName: 
+    pivot: {x: 0.2173913, y: -2.1333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 82
+      width: 23
+      height: 15
+    spriteID: cd81fdfe68f3eaf4a8bf1a01a6d5a920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 82}
+  - name: 07-KingPig_Frame_25
+    originalName: 
+    pivot: {x: 0.14285712, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 132
+      width: 21
+      height: 16
+    spriteID: ddd5039ce31927842b3e6787e3735f6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 132}
+  - name: 07-KingPig_Frame_26
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 116
+      width: 18
+      height: 20
+    spriteID: 6ee995f4ee2bb8548bf78dd7c026cbde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 116}
+  - name: 07-KingPig_Frame_27
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 144
+      width: 18
+      height: 20
+    spriteID: bce42d4eacdd5ea4eb2e21a9a9412d89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 144}
+  - name: 07-KingPig_Frame_28
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 172
+      width: 18
+      height: 20
+    spriteID: 9f50e76f2bb1b254ebdf9b347ac1d4d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 172}
+  - name: 07-KingPig_Frame_29
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 200
+      width: 18
+      height: 20
+    spriteID: b7122e398217a96489924bc7de6cd18a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 200}
+  - name: 07-KingPig_Frame_30
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 228
+      width: 18
+      height: 20
+    spriteID: 8e1b1f5862fc9f842aab6ee60fe055ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 228}
+  - name: 07-KingPig_Frame_31
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 30
+      width: 18
+      height: 20
+    spriteID: 9ec449f71c02e794485511db8783f86e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 30}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1472558989
+    name: 07-KingPig
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 07-KingPig_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 37be176b70292a644b0848c6cf6e6dc7
+    - name: 07-KingPig_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 21
+      spriteId: 453a28575a64d0048af3875a38c860fa
+    - name: 07-KingPig_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 22
+      spriteId: 3f53003a1a57ddf4abd9373c14d7e504
+    - name: 07-KingPig_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 30
+        y: 32
+        width: 19
+        height: 22
+      spriteId: 2db1188d032162d459b81df1b27edb66
+    - name: 07-KingPig_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 30
+        y: 32
+        width: 19
+        height: 21
+      spriteId: ebe7e2d4645b5e04b8e696f9fe5be65f
+    - name: 07-KingPig_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 19
+      spriteId: be52a1a0cf0a3c649894d00a129c9309
+    - name: 07-KingPig_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 30
+        y: 35
+        width: 19
+        height: 19
+      spriteId: 810035607b0a8f54689733a5704acb4f
+    - name: 07-KingPig_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 30
+        y: 33
+        width: 19
+        height: 20
+      spriteId: dfe0a5f43761ddc418dd6654723d8cd0
+    - name: 07-KingPig_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 699c6272859e9ac4382764845088c421
+    - name: 07-KingPig_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 31
+        y: 34
+        width: 18
+        height: 20
+      spriteId: 37c5205557f6c7a4b9ba6cd30b8f7735
+    - name: 07-KingPig_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 31
+        y: 33
+        width: 18
+        height: 20
+      spriteId: cfa523a4bdbd3b74991cec16df9038f6
+    - name: 07-KingPig_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 56c4b83cb0910b44c976540040a5c66d
+    - name: 07-KingPig_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 22
+      spriteId: 59bd8dd8ebcadd7479d60563f9190eb1
+    - name: 07-KingPig_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 30
+        y: 32
+        width: 19
+        height: 22
+      spriteId: 6859fd45683d23549932ac73e3cab2e1
+    - name: 07-KingPig_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 30
+        y: 32
+        width: 20
+        height: 19
+      spriteId: 1446131e58b4e014697434e998d5369b
+    - name: 07-KingPig_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 30
+        y: 32
+        width: 20
+        height: 19
+      spriteId: a8c4347af1d71b641b759e1b4c57b12e
+    - name: 07-KingPig_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 30
+        y: 32
+        width: 20
+        height: 18
+      spriteId: 7525797e57b754448b78c967d2463278
+    - name: 07-KingPig_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 21
+        y: 37
+        width: 28
+        height: 23
+      spriteId: 4b5f9f11b1918c049b0ff15480c85c3e
+    - name: 07-KingPig_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 24
+        y: 37
+        width: 25
+        height: 23
+      spriteId: 4062a4d44d623b149900b715ec4176ba
+    - name: 07-KingPig_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 30
+        y: 32
+        width: 20
+        height: 19
+      spriteId: f7e471f457d10574ebde91abb166cedd
+    - name: 07-KingPig_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 32
+        y: 36
+        width: 18
+        height: 21
+      spriteId: 9e591f9c6f7e10a48aa3a201e975e304
+    - name: 07-KingPig_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 31
+        y: 34
+        width: 18
+        height: 21
+      spriteId: 07de9197fca62b24e96efe47b2b9f7df
+    - name: 07-KingPig_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 31
+        y: 32
+        width: 19
+        height: 21
+      spriteId: c383af17da8dada45b1180ad89aa2c09
+    - name: 07-KingPig_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 34
+        y: 32
+        width: 22
+        height: 16
+      spriteId: ba1a24a0f2aa3544d8caafa1b0e8a395
+    - name: 07-KingPig_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 35
+        y: 32
+        width: 23
+        height: 15
+      spriteId: cd81fdfe68f3eaf4a8bf1a01a6d5a920
+    - name: 07-KingPig_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 37
+        y: 32
+        width: 21
+        height: 16
+      spriteId: ddd5039ce31927842b3e6787e3735f6c
+    - name: 07-KingPig_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 6ee995f4ee2bb8548bf78dd7c026cbde
+    - name: 07-KingPig_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: bce42d4eacdd5ea4eb2e21a9a9412d89
+    - name: 07-KingPig_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 9f50e76f2bb1b254ebdf9b347ac1d4d4
+    - name: 07-KingPig_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: b7122e398217a96489924bc7de6cd18a
+    - name: 07-KingPig_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 8e1b1f5862fc9f842aab6ee60fe055ff
+    - name: 07-KingPig_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 31
+        y: 32
+        width: 18
+        height: 20
+      spriteId: 9ec449f71c02e794485511db8783f86e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
